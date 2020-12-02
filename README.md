@@ -9,7 +9,7 @@ bad = BadStudent()
 
 print(bad.GetRank())
 ```
-# BadStudent.co
+# Thank you♥
 ขอขอบคุณ Api จากทาง [BadStudent.co](https://badstudent.co/)
 
 ### `#กูยังไม่ขออนุญาต`
